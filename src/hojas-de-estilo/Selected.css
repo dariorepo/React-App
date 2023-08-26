@@ -1,0 +1,11 @@
+.Selected{
+    display: flex;
+    justify-content: center;
+    
+    width: 212px;
+    height: 40px;
+    margin-top: 15px;
+    text-align: start;
+    color: white;
+    /* background-color: rgba(224, 216, 70, 0.224); */
+} 
